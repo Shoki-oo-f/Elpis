@@ -20,7 +20,8 @@
 
 | 役職 | ミッション | 管轄領域 |
 |---|---|---|
-| 👩‍💼 **Secretary / CEO** | 社長窓口、進行管理 | `.company/board.md`, `.company/phase.md` |
+| 👩‍💼 **Secretary** | 社長窓口、要件ヒアリング・整理 | `.company/board.md` |
+| 👔 **CEO** | プロジェクト指揮、フェーズ管理 | `.company/board.md`, `.company/phase.md` |
 | 📅 **PM** | 要件ヒアリング、PRD 作成 | `docs/prd/` |
 | 📐 **Architect** | 技術選定、API/DB 設計 | `docs/api-specs/`, `.company/adr/` |
 | 🎨 **Frontend** | UI/UX 実装 | `src/frontend/` |

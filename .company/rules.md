@@ -14,7 +14,8 @@
 
 | 役職 | 管轄領域 |
 |---|---|
-| Secretary / CEO | `.company/board.md`, `.company/phase.md` |
+| Secretary | `.company/board.md` |
+| CEO | `.company/board.md`, `.company/phase.md` |
 | PM | `docs/prd/` |
 | Architect | `docs/api-specs/`, `.company/adr/` |
 | Frontend Engineer | `src/frontend/` |

@@ -32,7 +32,8 @@
 │   └── 04_qa_review.md
 └── roles/                       ← 各役職の定義ファイル群
     ├── index.md                 ← 役職一覧（ルーティングテーブル）
-    ├── secretary.md             ← 👩‍💼 秘書 / CEO
+    ├── secretary.md             ← 👩‍💼 秘書
+    ├── ceo.md                   ← 👔 CEO
     ├── pm.md                    ← 📅 PM
     ├── architect.md             ← 📐 Architect
     ├── frontend.md              ← 🎨 Frontend Engineer

@@ -8,7 +8,8 @@
 
 | 役職 | ファイル | ミッション | 管轄領域 |
 |---|---|---|---|
-| 👩‍💼 Secretary / CEO | `secretary.md` | 社長窓口、全体の進行管理と状態把握 | `.company/board.md`, `.company/phase.md` |
+| 👩‍💼 Secretary | `secretary.md` | 社長窓口、要件ヒアリング・整理、CEOへの引き継ぎ | `.company/board.md` |
+| 👔 CEO | `ceo.md` | プロジェクト指揮、フェーズ管理、タスク振り分け | `.company/board.md`, `.company/phase.md` |
 | 📅 PM | `pm.md` | 社長要件のヒアリングとPRD作成 | `docs/prd/` |
 | 📐 Architect | `architect.md` | 技術選定、全体設計、API・DB設計、ADR記録 | `docs/api-specs/`, `.company/adr/` |
 | 🎨 Frontend Engineer | `frontend.md` | UI/UXの設計・実装 | `src/frontend/` |
